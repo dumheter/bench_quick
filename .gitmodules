@@ -1,0 +1,6 @@
+[submodule "thirdparty/benchmark"]
+	path = thirdparty/benchmark
+	url = https://github.com/google/benchmark
+[submodule "thirdparty/dutil"]
+	path = thirdparty/dutil
+	url = https://github.com/dumheter/dutil
